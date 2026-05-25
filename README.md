@@ -231,6 +231,19 @@ This project uses:
 Passionate Java Backend Developer 🚀
 
 ---
+# 🌐 Connect with Me
+
+- 💼 LinkedIn: [Ramesh Paswan](https://www.linkedin.com/in/ramesh-paswan-223742227)
+- 📺 YouTube: [Java Coder Channel](https://youtube.com/@javacoder65?si=kCxmM4G0Da2NNtsm)
+- 📸 Instagram: ramesh_p_90
+
+# 🎬 Demo / Preview
+
+## 📽️ Application Demo
+
+> Below is a quick demo of the Employee Management System in action.
+
+![Demo GIF](https://your-gif-link-here.gif)
 
 # ⭐ Support
 
